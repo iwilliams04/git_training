@@ -1,1 +1,2 @@
-Hi I'm bob
+Hi I'm bob.
+Adding a new line here
