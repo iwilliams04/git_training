@@ -4,3 +4,4 @@ Making some more changes
 adding some more text to test out the rebase command
 Trying this again - making a change here!
 changing alice again to create another conflict
+Testing testing
